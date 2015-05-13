@@ -1,3 +1,5 @@
+# global section fetch the content in ../special_media/global
+
 [global]
 
 [national]
@@ -12,6 +14,38 @@ http://www.jn.pt/paginainicial/
 http://www.sol.pt/
 http://www.ionline.pt/
 http://visao.sapo.pt/
+http://www.correiomanha.pt/
+http://diariodigital.sapo.pt/
+http://www.portugaldiario.iol.pt/
+http://visaoonline.clix.pt
+http://www.tsf.pt/paginainicial/
+http://www.lusa.pt/default.aspx?page=home
+http://semanal.expresso.clix.pt/capa/
+http://www.semanario.pt/
+http://www.ionline.pt/
+http://www.destak.pt/
+http://www.jornaldigital.com/
+
+# PORTUGAL economic newspapers
+
+http://www.diarioeconomico.com/
+http://www.portugaleconomico.com/
+http://www.ordemeconomistas.pt/jornal/
+http://www.jornalfiscal.pt/
+http://www.negocios.pt/
+http://www.semanarioeconomico.com/
+
+# PORTUGAL political newspapers
+
+http://www.mapa.pt/
+http://www.partido-socialista.pt/accao/
+http://www.psd.pt/pl.html
+http://www.pcp.pt/avante/
+
+# PORTUGAL universeties newspapers
+
+http://www.mundouniversitario.pt/
+http://www.canalsuperior.pt/
 
 # PORTUGAL nacional sport newspapers
 
